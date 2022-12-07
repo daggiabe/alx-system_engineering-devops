@@ -1,1 +1,2 @@
-Create a script that creates an alias.
+#!/bin/bash
+103-water_and_stir
